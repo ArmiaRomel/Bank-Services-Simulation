@@ -19,6 +19,8 @@ In a single run of the simulation, the following metrics were observed:
 - **Server Idle Percentage**: 0.809062%
 - **Probability of Customer Waiting**: 0.99
 - **Average Waiting Time for Those Who Waited**: 126.667 seconds
+  ![The Result of the first ten customers by code](https://github.com/user-attachments/assets/114c607d-ede5-4793-94f5-752fd382d102)
+  ![The final resulsts from the code](https://github.com/user-attachments/assets/13e4ea3d-d8b6-413c-a6d6-0447a1a9c7d8)
 
 *Note: These values were based on randomly generated numbers and will vary with each execution of the program.*
 
